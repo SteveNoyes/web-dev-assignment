@@ -25,7 +25,7 @@ Recreate the layout of our featured product page
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/SteveNoyes/web-dev-assignment)
-- Live Site URL: [GitHub Pages](https://pages.github.com/)
+- Live Site URL: [GitHub Pages](https://stevenoyes.github.io/web-dev-assignment/)
 
 ## Process
 
