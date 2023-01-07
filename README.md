@@ -2,25 +2,14 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [Process](#my-process)
   - [Built with](#built-with)
-  - [Featured Section](#featured-section)
-  - [Resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
 
 Recreate the layout of our featured product page
-
-### Screenshot
-
-![](./screenshot.jpg)
-
-![](./screenshot.jpg)
-
-![](./screenshot.jpg)
 
 ### Links
 
@@ -30,26 +19,6 @@ Recreate the layout of our featured product page
 ## Process
 
   Code only if it improves upon the silence
-  
-### Featured Section
-
-
-```html
-```
-
-```css
-```
-
-```js
-```
-
-### Resources
-
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
 
 ## Author
 
